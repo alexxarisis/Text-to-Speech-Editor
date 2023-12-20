@@ -19,11 +19,11 @@ A Java Swing editor that allows the user to:
 
 ### Open, Edit and Save
 
-https://github.com/alexxarisis/TextToSpeechEditor/assets/65713456/9cf3370e-7c42-4248-a7dd-557e24182239
+https://github.com/alexxarisis/Text-to-Speech-Editor/assets/65713456/5467fc37-0ac9-4a41-8bb1-15e93b71ac8d
 
 ### Play audio, Record and Replay
 
-https://github.com/alexxarisis/TextToSpeechEditor/assets/65713456/5cf359af-9d8e-455e-8e1d-b1da86fc5aa1
+https://github.com/alexxarisis/Text-to-Speech-Editor/assets/65713456/6bbd879c-3566-4a73-98e2-69597f61977a
 
 ## How to run
 
